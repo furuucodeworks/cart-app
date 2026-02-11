@@ -20,4 +20,4 @@ export function loadProducts(products){
     };
 }
 
-
+// GitHubにコミット初
