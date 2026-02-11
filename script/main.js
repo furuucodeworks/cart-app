@@ -3,6 +3,7 @@ import { getTaxAmount, formatPrice } from "./utils.js";
 import Cart from "./cart.js";
 
 // Gitの練習で追加したコメント
+// 翌日の復習Gitコメント
 
 // 商品表示関数
 function renderProducts(products) {
