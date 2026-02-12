@@ -1,4 +1,4 @@
-// ¥マークと3桁区切り
+// 価格を円貨表示形式でフォーマットする
 export function formatPrice(price) {
     return new Intl.NumberFormat('ja-JP', {
         style: 'currency',
