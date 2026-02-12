@@ -6,6 +6,7 @@ export const products = [
     { id: 4, name: "タンザニア・キゴマ[240g]", price: 2100, stock: 0, img: "/photo/ののた.png" },
     { id: 5, name: "ドリップバッグ5袋", price: 1000, stock: 5, img: "/photo/ののた.png" },
     { id: 6, name: "ドリップバッグ10袋", price: 1900, stock: 2, img: "/photo/ののた.png" },
+    { id: 7, name: "ドリップバッグ7袋", price: 1500, stock: 10, img: "/photo/ののた.png" },
 ];
 
 
