@@ -1,0 +1,4 @@
+# 中身をかく
+node_modules/
+.DS_Store
+*.log
