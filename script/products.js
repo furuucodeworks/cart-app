@@ -8,7 +8,7 @@ export const products = [
     { id: 6, name: "ドリップバッグ10袋", price: 1900, stock: 2, img: "/photo/ののた.png" }
 ];
 
-// 商品データをローカスストレージから読み込み
+// 商品データをローカスストレージから読み込み   
 export function loadProducts(products){
     try{
         const productsStr = localStorage.getItem("product");
